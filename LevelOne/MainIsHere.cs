@@ -6,7 +6,7 @@ namespace LevelOne
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("GG");
+            Console.WriteLine("Some bad days happend sometimes");
         }
     }
 }
